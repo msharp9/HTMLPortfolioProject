@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.header, .tagline, .skills, .contact {
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
+
+.header {
+  background-color: #003366;
+}
+
+.skills {
+  background-color: springgreen;
+}
+
+.contact {
+  background-color: #996699;
+}
